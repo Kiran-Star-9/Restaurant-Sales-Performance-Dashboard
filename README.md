@@ -124,6 +124,10 @@ Entry-Level Data Analyst | Excel | SQL | Power BI
 
 GitHub: Kiran-Star-9
 
+## 📊 Dashboard Preview
+
+![Restaurant Sales Dashboard](images/Restaurant%20Sales%20Dashboard.png)
+
 
 
 ---
